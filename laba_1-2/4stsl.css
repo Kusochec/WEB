@@ -1,0 +1,62 @@
+
+h2{
+    text-align: center;  /*Выравнивание по центру */
+    font-family: 'Comic Sans', sans-serif;
+    padding-bottom: 10px;
+    /*background: red; */
+}
+
+a{
+ color:white; 
+  
+}
+
+h3{
+   text-align: center;  /*Выравнивание по центру */
+   font-family: 'Comic Sans', sans-serif;
+   padding-top:10px;
+   padding-bottom:5px;
+   color: white; 
+}
+
+.bl1{
+    background: #150792; 
+    border-radius: 10px;
+    font-family: Arial;
+}
+
+.p1 {
+color: white;
+margin-top: -19px;
+text-indent: 20px;
+padding-top:5px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;
+}
+
+.img{
+    text-align: center;
+    margin-top: -5px;
+    padding-bottom:10px;
+      
+}
+img{
+border-radius: 10px;   
+}
+
+table.Table {
+    width: 100%; /* Ширина таблицы */
+    border: 1px solid #666; /* Рамка вокруг таблицы */
+    border-radius: 10px;
+   }
+
+   th {
+    background: #009383; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    text-align: left; /* Выравнивание по левому краю */
+   }
+   
+   tr.odd {
+    background: #ebd3d7; /* Цвет фона */
+   }
